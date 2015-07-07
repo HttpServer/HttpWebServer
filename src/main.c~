@@ -20,7 +20,7 @@ volatile int a=0 ;
 int main()
 {
 	
-	int portNumber=8046 ;
+	int portNumber=1000 ;
 	httpRequest *req ;
 	
 	int listenSocket=socket(PF_INET,SOCK_STREAM,0);
