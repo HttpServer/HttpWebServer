@@ -1,6 +1,7 @@
 /*
 
 Author   = Tassi Abdelghani
+Contributor = Reda Bouhaddar
 Date     = 25/12/2015
 Name     = HTTPRESPONSE_H
 
@@ -20,6 +21,7 @@ Name     = HTTPRESPONSE_H
 #include <unistd.h>
 #include <string.h>
 #include <sys/stat.h>
+#include <stdlib.h>
 
 int sendAll(httpRequest *req , char* data , int size);
 

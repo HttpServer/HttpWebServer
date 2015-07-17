@@ -1,8 +1,10 @@
 /*
 
 Author = Tassi Abdelghani
+Contributor = Reda Bouhaddar
 Date   = 23/12/2015
 Name   = HTTPREQUEST_H
+
 
 */
 
@@ -14,6 +16,7 @@ Name   = HTTPREQUEST_H
 #include<stdio.h>
 
 #include<string.h>
+
 typedef struct httpRequest 
 {
 int dialogSock ;

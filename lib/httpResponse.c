@@ -1,5 +1,6 @@
 /* 
 Author = Tassi Abdelghani
+Contributor = Reda Bouhaddar
 Date = 25/12/2015
 Name = HTTPREQUEST_C
 
