@@ -1,6 +1,7 @@
 /*
 
 Author = Tassi Abdelghani
+Contributor = Reda Bouhaddar
 Date = 23/12/2015
 Name =HTTPREQUEST_C
 
