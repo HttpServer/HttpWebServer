@@ -16,3 +16,4 @@ httpResponse.o : lib/httpResponse.c include/httpResponse.h include/httpRequest.h
 
 clean : 
 	rm -rf ./build/obj/*.o ;
+	rm -rf ./build/release/* ;
