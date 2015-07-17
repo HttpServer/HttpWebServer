@@ -31,7 +31,7 @@
 			</Target>
 		</Build>
 		<Compiler>
-			<Add option="-Wall" />
+			<Add option="-lpthread -Wall -Wextra -Werror" />
 		</Compiler>
 		<Unit filename="include/httpRequest.h" />
 		<Unit filename="include/httpResponse.h" />
